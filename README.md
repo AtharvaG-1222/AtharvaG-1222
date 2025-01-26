@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtharvaG-1222
 - 👀 I’m interested in ...App development and coding  
-- 🌱 I’m currently learning ...C and JAVA
+- 🌱 I’m currently learning ...C and Python
 - 💞️ I’m looking to collaborate on ...  Coding projects
 - 📫 How to reach me ... atharvagupta0311@gmail.com
 - 😄 Pronouns: ...
